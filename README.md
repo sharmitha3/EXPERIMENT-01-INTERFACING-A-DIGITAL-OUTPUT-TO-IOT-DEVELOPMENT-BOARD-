@@ -100,9 +100,9 @@ while (1)
 
 ## OUTPUT  :
  
- ![image](https://github.com/user-attachments/assets/0c82a04f-35dc-4b7f-b5d8-a552b9d50d68)
+![image](https://github.com/user-attachments/assets/6dbd177f-f636-424a-8a47-a4d9d493ccd0)
 
- 
+
  
 ## Result :
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
